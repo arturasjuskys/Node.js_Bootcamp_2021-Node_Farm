@@ -7,5 +7,5 @@
 ### Entry Point
 `npm install` => `npm start` => `localhost:8000`
 
-<img src="" />
-<img src="" />
+<img src=https://github.com/AJuskys/Node.js_Bootcamp_2021-Node_Farm/blob/master/Capture01.png"" />
+<img src="https://github.com/AJuskys/Node.js_Bootcamp_2021-Node_Farm/blob/master/Capture02.png" />
