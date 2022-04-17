@@ -7,7 +7,7 @@
 ![](./img/Capture02.png)
 
 ## Description
-Nodefarm is a simple and isolated example of using `server-side rendering`. This app employs conditional logic to emulate routing between `Home Page`, `Product Page`, and `API` that displays all data. Page rendering is achieved in routing conditional logic by replacing temple values with data from data.json file. Database is emulated using data.json file and accessed using `fs`(file-system) module.
+Nodefarm is a simple and isolated example of using `server-side rendering`. This app employs conditional logic to emulate routing between `Home Page`, `Product Page`, and `API` that displays all data. Page rendering is achieved in routing conditional logic by replacing temple values with data from data.json file. Database is emulated using data.json file and accessed using fs(file-system) module.
 
 ## Technologies Used
 * data.json - database emulation
@@ -23,4 +23,4 @@ Nodefarm is a simple and isolated example of using `server-side rendering`. This
 
 ## Entry Point
 ### Local Host
-`npm install` => `npm start` => `localhost:8000`
+npm install => npm start => `localhost:8000`
